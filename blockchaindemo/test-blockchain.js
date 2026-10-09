@@ -3,7 +3,7 @@ const Block = require("./Block");
 console.log("====区块链测试开始========");
 
 try {
-   // 1. 测试创世纪区块
+   // 1. 测试创世纪区块11111111111111111111111111111111111111111
    console.log("1. 测试创世区块:");
    const genesis = Block.genesis;
    console.log("--索引：", genesis.index);
